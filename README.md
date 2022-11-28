@@ -20,7 +20,7 @@
   - `React Native` `JavaScript` `Figma Design & Wireframe`
   - [Repo](https://github.com/luciancah/sejong-attendance), [App Store](https://apps.apple.com/kr/app/%EC%B6%9C%EC%84%9D%EA%B7%80%EC%8B%A0-%EC%84%B8%EC%A2%85%EB%8C%80%ED%95%99%EA%B5%90-%EC%98%A8%EB%9D%BC%EC%9D%B8-%EC%B6%9C%EC%84%9D%EA%B4%80%EB%A6%AC/id1641685544)
   - iOS AppStore 생산성 차트 63위 (2022.10)
-- 15.GG: GRU 기반 실시간 League of Legends 승률 분석 (22.09 ~ 22.12, 개발중)
+- 15.GG: AI모델(GRU) 기반 실시간 League of Legends 승률 분석 (22.09 ~ 22.12, 개발중)
   - `PyTorch` `React` `Electron` `TypeScript` `Figma Design & Wireframe`
   - [Web Repo](https://github.com/fifteen-GG/15GG_front), [Electron Repo](https://github.com/fifteen-GG/DataNashor), [Web](http://3.36.71.186/)
 - MBTI 유전자검사: 카카오톡 로그인을 통한 통계적 MBTI 테스트 (22.02)
@@ -36,6 +36,6 @@
   - Zepeto Render API를 활용, 실제 장소에서 인기 아이돌 등 K-컨텐츠와 결합하여 '성지순례'하여 온/오프라인 간의 융합 서비스
 - `1st Place`, `광진구청장상` 세종대학교 군자로 S.I.(Store Identity) 프로젝트 (2022)
   - 학교 앞 상권의 노후화된 상권을 활성화 하는 프로젝트. 코인세탁소 '모지트'와 협업하여 키오스크, 세탁 현황 웹페이지, 매장 이용 프로세스 기획 및 디자인
-- `4th Place`, `소프트융합대학장상` Sejong AI Challenge (2022)
+- `4th Place`, `소프트웨어융합대학장상` Sejong AI Challenge (2022)
   - `PyTorch` `Scikit-Learn`
   - Kaggle을 통해 진행한 AI Challenge 대회(Python 트랙) [Repo](https://github.com/SejongAI-Challenge/2022.AI.Challenge)
