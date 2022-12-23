@@ -41,3 +41,5 @@
   - Kaggle을 통해 진행한 AI Challenge 대회(Python 트랙) [Repo](https://github.com/SejongAI-Challenge/2022.AI.Challenge)
 - `3th Place`, `4th Place` 세종대학교 소프트웨어융합대학 학술제 (2022)
   - 출석귀신(3등상), 15.GG(4등상)
+- `2th Place`, `3th Place` 세종대학교 컴퓨터공학과 학술제 (2022)
+  - 15.GG(우수상), 출석귀신(우수상)
