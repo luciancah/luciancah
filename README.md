@@ -15,6 +15,9 @@
 
 -->
 
+### Experiences
+- Internship: NAVER Corp, Healthcare Lab (23.01 ~ )
+
 ### Projects
 - 출석귀신: 세종대학교 온라인 출석관리 어플리케이션 (22.07 ~ 22.08, 유지보수중)
   - `React Native` `JavaScript` `Figma Design & Wireframe`
