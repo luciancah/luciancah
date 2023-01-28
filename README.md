@@ -37,7 +37,7 @@
 - `1st Place` Junction X Seoul 2019 'Zepeto Render API Track' (2019)
   - Participated as a Product Designer, Team Leader
   - Zepeto Render API를 활용, 실제 장소에서 인기 아이돌 등 K-컨텐츠와 결합하여 '성지순례'하여 온/오프라인 간의 융합 서비스
-- `1st Place`, `광진구청장상` 세종대학교 군자로 S.I.(Store Identity) 프로젝트 (2022)
+- `1st Place`, `광진구청장상` 세종대학교 군자로 S.I.(Store Identity) 프로젝트 (2022, 3개월)
   - 학교 앞 상권의 노후화된 상권을 활성화 하는 프로젝트. 코인세탁소 '모지트'와 협업하여 키오스크, 세탁 현황 웹페이지, 매장 이용 UI/UX 개선/기획 및 디자인
 - `4th Place`, `소프트웨어융합대학장상` Sejong AI Challenge (2022)
   - `PyTorch` `Scikit-Learn`
@@ -46,3 +46,5 @@
   - 출석귀신(3등상), 15.GG(4등상)
 - `2th Place`, `3th Place` 세종대학교 컴퓨터공학과 학술제 (2022)
   - 15.GG(우수상), 출석귀신(우수상)
+- `4th Place` 세종대학교 공학인증 창의설계경진대회 (2022)
+- `4th Place` Sejong Creative IDEA 공모전 (2023)
