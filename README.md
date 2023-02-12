@@ -17,6 +17,7 @@
 
 ### Experiences
 - Internship: NAVER Corp, Healthcare Lab (23.01 ~ )
+- Student Representative: Dept of Computer Science, Sejong University (2018, 2019, 2022)
 
 ### Projects
 - 출석귀신: 세종대학교 온라인 출석관리 어플리케이션 (22.07 ~ 22.08, 유지보수중)
