@@ -23,9 +23,9 @@
   - `React Native` `JavaScript` `Figma Design & Wireframe`
   - [Repo](https://github.com/luciancah/sejong-attendance), [App Store](https://apps.apple.com/kr/app/%EC%B6%9C%EC%84%9D%EA%B7%80%EC%8B%A0-%EC%84%B8%EC%A2%85%EB%8C%80%ED%95%99%EA%B5%90-%EC%98%A8%EB%9D%BC%EC%9D%B8-%EC%B6%9C%EC%84%9D%EA%B4%80%EB%A6%AC/id1641685544)
   - iOS AppStore 생산성 차트 63위 (22.10)
-- 15.GG: AI모델(GRU) 기반 실시간 League of Legends 승률 분석 (22.09 ~ 22.12, 개발중)
+- 15.GG: AI모델(GRU) 기반 실시간 League of Legends 승률 분석 (22.09 ~ 22.12)
   - `PyTorch` `React` `Electron` `TypeScript` `Figma Design & Wireframe`
-  - [Web Repo](https://github.com/fifteen-GG/15GG_front), [Electron Repo](https://github.com/fifteen-GG/DataNashor), [Web](http://13.125.246.106)
+  - [Web Repo](https://github.com/fifteen-GG/15GG_front), [Electron Repo](https://github.com/fifteen-GG/DataNashor), [Demo](https://www.youtube.com/watch?v=PA12zff1NyU&feature=youtu.be)
 - MBTI 유전자검사: 카카오톡 로그인을 통한 유저들의 통계적 MBTI 테스트 (22.02)
   - `React` `TypeScript` `Figma Design & Wireframe`
   - [Repo](https://github.com/Viral-MBTI-Test/Viral_MBTI_frontend)
