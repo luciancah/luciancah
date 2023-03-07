@@ -22,7 +22,7 @@
 ### Projects
 - 출석귀신: 세종대학교 온라인 출석관리 어플리케이션 (22.07 ~ 22.08, 유지보수중)
   - `React Native` `JavaScript` `Figma Design & Wireframe`
-  - [Repo](https://github.com/luciancah/sejong-attendance), [App Store](https://apps.apple.com/kr/app/%EC%B6%9C%EC%84%9D%EA%B7%80%EC%8B%A0-%EC%84%B8%EC%A2%85%EB%8C%80%ED%95%99%EA%B5%90-%EC%98%A8%EB%9D%BC%EC%9D%B8-%EC%B6%9C%EC%84%9D%EA%B4%80%EB%A6%AC/id1641685544)
+  - [Repo](https://github.com/luciancah/sejong-attendance), [App Store](https://apps.apple.com/kr/app/%EC%B6%9C%EC%84%9D%EA%B7%80%EC%8B%A0-%EC%84%B8%EC%A2%85%EB%8C%80%ED%95%99%EA%B5%90-%EC%98%A8%EB%9D%BC%EC%9D%B8-%EC%B6%9C%EC%84%9D%EA%B4%80%EB%A6%AC/id1641685544), [Play Store](https://play.google.com/store/apps/details?id=com.sejongattendancev1)
   - iOS AppStore 생산성 차트 63위 (22.10)
 - 15.GG: AI모델(GRU) 기반 실시간 League of Legends 승률 분석 (22.09 ~ 22.12)
   - `PyTorch` `React` `Electron` `TypeScript` `Figma Design & Wireframe`
