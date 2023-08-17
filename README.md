@@ -16,7 +16,8 @@
 -->
 
 ### Experiences
-- Internship: NAVER Corp, Healthcare Lab (23.01 ~ )
+- Freelance Software Developer: NAVER Corp, Healthcare Lab (23.08 ~ )
+- Internship: NAVER Corp, Healthcare Lab (23.01 ~ 23.07)
 - Student Representative: Dept of Computer Science, Sejong University (2018, 2019, 2022)
 
 ### Projects
