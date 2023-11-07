@@ -36,7 +36,7 @@
   - [Repo](https://github.com/Jingil-Integrated-Management/JIM_frontend_v4), [Web](https://jingil-integrated-management.github.io/JIM_frontend_v4/)
 
 ### Awards
-- `1st Place` Junction Asia 2023 'ZAKA Robotics Track' (2023)
+- `1st Place` Junction Asia 2023 'JAKA Robotics Track' (2023)
   - Participated as a Product Designer, UI/UX Designer, Team Leader
 - `1st Place` Junction X Seoul 2019 'Zepeto Render API Track' (2019)
   - Participated as a Product Designer, Team Leader
