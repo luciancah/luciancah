@@ -23,6 +23,7 @@
 - Internship: NAVER Corp, Healthcare Lab (23.01 ~ 23.07)
   - Full Stack role, `React` WebView with `React Native`, `Django`, `DRF`
 - Student Representative: Dept of Computer Science, Sejong University (2018, 2019, 2022)
+- Game Designer: Team ArcStar, game `OverRapid` (2014 ~ 2016)
 
 ### Projects
 - 출석귀신: 세종대학교 온라인 출석관리 어플리케이션 (22.07 ~ 22.08, 유지보수중)
