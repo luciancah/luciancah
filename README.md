@@ -19,8 +19,9 @@
 -->
 
 ### Experiences
-- Freelance Software Developer: NAVER Corp, Healthcare Lab (23.08 ~ 24.02)
+- Freelance Software Engineer: NAVER Corp, Healthcare Lab (23.08 ~ 24.02)
 - Internship: NAVER Corp, Healthcare Lab (23.01 ~ 23.07)
+  - Full Stack role, `React` WebView with `React Native`, `Django`, `DRF`
 - Student Representative: Dept of Computer Science, Sejong University (2018, 2019, 2022)
 
 ### Projects
