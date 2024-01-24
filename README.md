@@ -1,6 +1,9 @@
 ### Hi there 👻
-[![luciancah's GitHub stats](https://github-readme-stats.vercel.app/api?username=luciancah&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
+
 <!-- 
+
+[![luciancah's GitHub stats](https://github-readme-stats.vercel.app/api?username=luciancah&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
+
 ### Skills
 
 <p align="left">
@@ -16,7 +19,7 @@
 -->
 
 ### Experiences
-- Freelance Software Developer: NAVER Corp, Healthcare Lab (23.08 ~ )
+- Freelance Software Developer: NAVER Corp, Healthcare Lab (23.08 ~ 24.02)
 - Internship: NAVER Corp, Healthcare Lab (23.01 ~ 23.07)
 - Student Representative: Dept of Computer Science, Sejong University (2018, 2019, 2022)
 
@@ -28,12 +31,9 @@
 - 15.GG: AI모델(GRU) 기반 실시간 League of Legends 승률 분석 (22.09 ~ 22.12)
   - `PyTorch` `React` `Electron` `TypeScript` `Figma Design & Wireframe`
   - [Web Repo](https://github.com/fifteen-GG/15GG_front), [Electron Repo](https://github.com/fifteen-GG/DataNashor), [Demo](https://www.youtube.com/watch?v=PA12zff1NyU&feature=youtu.be)
-- MBTI 유전자검사: 카카오톡 로그인을 통한 유저들의 통계적 MBTI 테스트 (22.02)
-  - `React` `TypeScript` `Figma Design & Wireframe`
-  - [Repo](https://github.com/Viral-MBTI-Test/Viral_MBTI_frontend)
-- Jingil Integrated Management: 기업에서 이용하는 거래/도면 관리 대시보드 (21.10 ~ 21.12, 서비스중)
-  - `React` `TypeScript` `Figma Design & Wireframe`
-  - [Repo](https://github.com/Jingil-Integrated-Management/JIM_frontend_v4), [Web](https://jingil-integrated-management.github.io/JIM_frontend_v4/)
+- React로 한 다른 프로젝트들..
+  - [MBTI 유전자검사](https://github.com/Viral-MBTI-Test/Viral_MBTI_frontend) `React` `TypeScript` `Figma Design & Wireframe`
+  - [Jingil Integrated Management: 거래/도면 관리 대시보드](https://github.com/Jingil-Integrated-Management/JIM_frontend_v4) `React` `TypeScript` `Figma Design & Wireframe`
 
 ### Awards
 - `1st Place` Junction Asia 2023 'JAKA Robotics Track' (2023)
