@@ -1,5 +1,7 @@
 ### Hi there 👻
 
+Check out my blog as well [here](https://blog.luciancah.com/)
+
 <!-- 
 
 [![luciancah's GitHub stats](https://github-readme-stats.vercel.app/api?username=luciancah&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
